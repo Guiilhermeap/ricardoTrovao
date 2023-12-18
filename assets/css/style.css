@@ -236,7 +236,7 @@ body {
 
 ::selection{
   color: #fff;
-  background: #675AFE;
+  background: #44d4ac;
 }
 .wrapper{
   width: 370px;
@@ -271,7 +271,7 @@ form input{
 }
 form input:focus{
   padding: 0 14px;
-  border: 2px solid #675AFE;
+  border: 2px solid #44d4ac;
 }
 form .drop-list{
   display: flex;
@@ -319,14 +319,14 @@ form .exchange-rate{
 }
 form button{
   height: 52px;
-  color: #fff;
+  color: #000;
   font-size: 17px;
   cursor: pointer;
-  background: #675AFE;
+  background: #44d4ac;
   transition: 0.3s ease;
 }
 form button:hover{
-  background: #4534fe;
+  background: #36a888;
 }
 
 /* ==========================MOEDAS======================-=== */
